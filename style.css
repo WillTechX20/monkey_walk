@@ -1,0 +1,25 @@
+h1 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+html {
+background-color: darkgrey;
+text-align: center;
+font-family: system-ui;
+}
+
+input[type="button"] {
+background-color: #4CAF50;
+color: white;
+padding: 14px 20px;
+margin: 8px 0;
+border: none;
+cursor: pointer;
+width: 300px;
+opacity: 0.9;
+}
+    
+input[type="button"]:hover {
+opacity: 1;
+}
